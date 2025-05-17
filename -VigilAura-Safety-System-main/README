@@ -1,0 +1,26 @@
+# VigilAura - Personal Safety Application 🚨
+
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Flask](https://img.shields.io/badge/flask-2.0+-green.svg)
+![License](https://img.shields.io/badge/license-MIT-orange.svg)
+
+VigilAura is a Flask-based web application designed to enhance personal safety through emergency alerts, fake calls, and location sharing.
+
+## Features ✨
+
+- **SOS Alert**: Instantly notify trusted contacts via email
+- **Fake Call**: Simulate an incoming call to deter threats
+- **Location Sharing**: Share your current location (future implementation)
+- **Simple Web Interface**: Easy-to-use one-click controls
+
+## Installation 🛠️
+
+### Prerequisites
+- Python 3.8+
+- Gmail account (for email alerts)
+
+### Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/vigil-aura.git
+   cd vigil-aura

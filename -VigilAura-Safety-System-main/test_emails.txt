@@ -1,0 +1,12 @@
+From: test@vigilaura
+To: ['recipient@test']
+Data: From: test@vigilaura
+To: recipient@test
+Subject: VigilAura Test
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+This is a local test
+
+
